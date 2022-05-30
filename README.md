@@ -3,7 +3,7 @@
 Finds percentage similarity between inputted text and relevant articles on the web.
 
 ## Website Link:
-http://plagiarism-detection--hariambethkar.repl.co/
+[http://plagiarism-detection--hariambethkar.repl.co/](https://www.google.com/)
 
 ## How To:
 - Click on the link to the website
